@@ -13,6 +13,24 @@ A turn-based RPG battle game written in **C++** demonstrating Object-Oriented Pr
 - Enemy taunts
 - Final boss battle (Dragon)
 
+## Gameplay Preview
+
+Example battle output:
+
+Knight attacks!
+Goblin took 15 damage.
+
+Knight [████████████░░░░░░░░] 90/120  
+Goblin [██████░░░░░░░░░░░░░] 30/60  
+
+Enemy attacks!  
+Knight took 8 damage.
+
+Potion used! Health restored.  
+Potions remaining: 2  
+
+🔥 CRITICAL HIT! Damage doubled!
+
 ## OOP Concepts Used
 
 - Inheritance
